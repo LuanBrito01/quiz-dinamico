@@ -1,4 +1,5 @@
 Descrição do Projeto
+
 Este projeto tem como objetivo desenvolver um jogo de perguntas e respostas utilizando recursos básicos do Python. O jogo foi criado para estimular o raciocínio lógico, reforçar conceitos de programação e aprimorar o conhecimento geral de forma interativa e divertida.
 
 Objetivos
